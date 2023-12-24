@@ -9,7 +9,7 @@ public class Laptop {
     
     @Override
     public String toString(){
-        return "Model: " + model + ", HD: " + hd + ", ОЗУ: " + ram + ", ОС: " + os;
+        return "ОЗУ: " + ram  + ", HD: " + hd + ", ОС: " + os + ", Model: " + model;
     }
     
 }
